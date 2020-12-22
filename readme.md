@@ -130,7 +130,7 @@ def arithmeticprogression(x):
 ```
 - output
 
-![output](H:\pythonBasics\snaps\1.PNG)
+![output](https://github.com/anindameister/pythonBasics/blob/main/snaps/1.PNG)
 
 - the w3school's recursion have been fixed below
 ```
